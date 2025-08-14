@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Silver Millenium",
+		"leaderName": "Neo-Queen Serenity",
+		"adjective": ["Moon Kingdom People"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "She would almost never leave the Crystal Palace but one day in a panic she left suddenly. Then a huge explosion occurred and everything was blown away in an instant except for the Crystal Palace, which was made from the Silver Crystal. Afterwards there was a grave silence at that very moment the Queens body was instantly engulfed in crystal as if she was being protected. However the four Senshi, Sailor Mars, Sailor Venus, Sailor Mercury and Sailor Jupiter along with King Endymion who were at her side, took a direct hit and fell. Chibiusa and Diana were the only ones who were spared.",
+		"startIntroPart2": "Oh, Neo-Queen Serenity... Would you be able to save silver Millenium... Will you stay frozen in a crystal and watch as your empire shattered like a broken glass... Will you stand the test of time.",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
@@ -29,10 +29,14 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniqueName": "The Legendary Silver Crystal",
+		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate"],
+		"cities": ["Crystal Urania","Mare Serenitatis","Mare Tranquillitatis","Mare Cognitum","Mare Crisium","Mare Imbrium","Mare Ingenii","Mare Nubium","Mare Nectaris","Mare Orientale",
+			"Mare Spumans","Mare Undarum","Mare Vaporum","Oceanus Procellarum","Lacus Bonitatis","Lacus Excellentiae","Lacus Gaudii","Lacus Felicitatis","Lacus Lenitatis","Lacus Luxuriae",
+			"Lacus Perseverantiae","Lacus Solitudinis","Lacus Spei","Lacus Veris","Palus Somni","Lacus Temporis","Lacus Doloris","Lacus Mortis","Sinus Roris",
+			"Sinus Honoris","Sinus Medii","Sinus Fidei","Sinus Concordiae","Sinus Amoris","Sinus Iridum","Endymion","Eudoxus","Posidonius",
+			"Plato","Cleomedes","Selene"],
+        "spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander"]
+		
 	}
 ]
