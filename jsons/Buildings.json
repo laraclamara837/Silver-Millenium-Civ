@@ -1,16 +1,17 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "The Crystal Palace",
+		"replaces": "Palace",
+		"uniqueTo": "Silver Millenium",
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"production": 5,
+		"science": 10,
+		"gold": 10,
+		"culture": 10,
+		"cityStrength": 50,
+		"cityHealth": 3000,
+		"cost": 0,
+		"uniques": ["Indicates the capital city", "[+100]% City Strength from defensive building <in this city> <when at war>", "Enemy [Wounded] units must spend [5] extra movement points when inside your territory <in this city>", "[Wounded] Units adjacent to this city heal [50] HP per turn when healing", "Destroyed when the city is captured", "Doubles Gold given to enemy if city is captured"]
 	},
 	{
 		"name": "Breeders",
