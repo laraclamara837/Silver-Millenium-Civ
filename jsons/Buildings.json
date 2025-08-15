@@ -14,14 +14,17 @@
 		"uniques": ["Indicates the capital city", "[+100]% City Strength from defensive building <in this city> <when at war>", "Enemy [Wounded] units must spend [5] extra movement points when inside your territory <in this city>", "[Wounded] Units adjacent to this city heal [50] HP per turn when healing", "Destroyed when the city is captured", "Doubles Gold given to enemy if city is captured"]
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Crystal Palace Library",
+		"uniqueTo": "Silver Millenium",
+		"replaces": "National Collage",
+		"cost": 500,
+		"hurryCostModifier": 250,
+		"production": 10,
+        "science": 30,
+		"isNationalWonder": true,
+		"percentStatBonus": {"science": 3000},
+		"uniques": ["Gain a free [Library] [in this city]", "[5] free random researchable Tech(s) from the [Classical era]"],
+		"requiredTech": "Writing"
 	}
 ]
 
