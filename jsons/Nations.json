@@ -30,7 +30,7 @@
 		"outerColor": [175,179,238],
 		"innerColor": [251,250,255],
 		"uniqueName": "The Legendary Silver Crystal Power",
-		"uniques": ["[+100]% Golden Age length", "[+3 Happiness, +2 Culture] from every [Ice]", "[+50]% City Strength from defensive building <when at war>", "[+800]% [Happiness] [in all cities] <during a Golden Age>"],
+		"uniques": ["[+100]% Golden Age length", "[+100]% growth [in all cities]", "[+3 Happiness, +2 Culture] from every [Ice]", "[+50]% City Strength from defensive building <when at war>", "[+800]% [Happiness] [in all cities] <during a Golden Age>"],
 		"cities": ["Crystal Urania","Mare Serenitatis","Mare Tranquillitatis","Mare Cognitum","Mare Crisium","Mare Imbrium","Mare Ingenii","Mare Nubium","Mare Nectaris","Mare Orientale",
 			"Mare Spumans","Mare Undarum","Mare Vaporum","Oceanus Procellarum","Lacus Bonitatis","Lacus Excellentiae","Lacus Gaudii","Lacus Felicitatis","Lacus Lenitatis","Lacus Luxuriae",
 			"Lacus Perseverantiae","Lacus Solitudinis","Lacus Spei","Lacus Veris","Palus Somni","Lacus Temporis","Lacus Doloris","Lacus Mortis","Sinus Roris",
