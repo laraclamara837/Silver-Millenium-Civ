@@ -43,7 +43,7 @@
 		"requiredTech": "Sailing",
 		"obsoleteTech": "Compass",
 		"upgradesTo": "Composite Bowman",
-		"promotions": ["Quick Study"],
+		"promotions": ["Quick Study", "Mercury Illusion"],
 		"attackSound": "Mercury Aqua Mist!"
 	}
 ]
