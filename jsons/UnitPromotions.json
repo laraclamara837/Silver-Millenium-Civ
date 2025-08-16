@@ -1,7 +1,7 @@
 [
 {
 		"name": "Mercury Illusion",
-		"uniques": ["[-30]% Strength for enemy [Military] units in adjacent [All] tiles "],
+		"uniques": ["[-30]% Strength for enemy [Military] units in adjacent [All] tiles <with [50]% chance>"],
 		"unitTypes": ["Sailor Guardian"],
     },
 ]
