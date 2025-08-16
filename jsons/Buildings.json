@@ -16,7 +16,7 @@
 	{
 		"name": "Crystal Palace Library",
 		"uniqueTo": "Silver Millenium",
-		"replaces": "National Collage",
+		"replaces": "National College",
 		"cost": 500,
 		"hurryCostModifier": 250,
 		"production": 10,
