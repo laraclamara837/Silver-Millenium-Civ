@@ -39,10 +39,11 @@
 		"strength": 8,
 		"rangedStrength": 9,
 		"cost": 90,
-		"uniques": ["Invisible to non-adjacent units", "[+50]% Strength ", "Eliminates combat penalty for attacking across a coast", "May travel on Water tiles without embarking", "Limited to [1] per Civilization", "Only available <in [Coastal] cities>"],
+		"uniques": ["Invisible to non-adjacent units", "[+50]% Strength <vs [All] units> <when fighting in [Coastal] tiles>", "[+50]% Strength <vs [All] units> <when fighting in [River] tiles>", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May travel on Water tiles without embarking", "Limited to [1] per Civilization", "Only available <in [Coastal] cities>"],
 		"requiredTech": "Sailing",
 		"obsoleteTech": "Compass",
 		"upgradesTo": "Composite Bowman",
-		"attackSound": "Moon Tiara Boomerang!"
+		"promotions": ["Quick Study"],
+		"attackSound": "Mercury Aqua Mist!"
 	}
 ]
