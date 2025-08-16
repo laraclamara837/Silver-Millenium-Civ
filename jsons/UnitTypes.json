@@ -3,7 +3,7 @@
         "name": "Sailor Guardian",
         "movementType": "Land",
 		"uniques": ["[+3] Sight", "[1] Range", "[+3] Movement", "Consumes [1] [Gems]", "Withdraws before melee combat", "Can move immediately once bought", "May heal outside of friendly territory", "All healing effects doubled", 
-			"Can move after attacking", "Can see invisible [Wounded] units", "[+50]% Strength decreasing with distance from the capital", "[+100]% Strength <vs [All] units> <when attacking>", "Can be purchased for [50] [Gold] [in capital]",
-			"Unbuildable"]
+			"Can move after attacking", "Can see invisible [Wounded] units", "[+50]% Strength decreasing with distance from the capital", "[+100]% Strength <vs [All] units> <when attacking>", 
+			"May buy [Sailor Guardian] units for [50] [Gold] [in capital] at an increasing price ([25])", "Unbuildable"],
 }
 ]
