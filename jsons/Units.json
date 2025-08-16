@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"name": "Sailor Moon",
+		"unitType": "Sailor Guardian",
+		"uniqueTo": "Silver Millenium",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
