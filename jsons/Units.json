@@ -3,15 +3,14 @@
 		"name": "Sailor Moon",
 		"unitType": "Sailor Guardian",
 		"uniqueTo": "Silver Millenium",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"replaces": "Archer",
+		"range": 1,
+		"movement": 3,
+		"strength": 10,
+		"rangedStrength": 15,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Crystal Sailor Moon",
+		"attackSound": "arrow"
 	}
 ]
