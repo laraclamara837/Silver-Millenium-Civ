@@ -1,0 +1,8 @@
+[
+{
+        "name": "Sailor Guardian",
+        "movementType": "Land",
+		"uniques": ["[+50]% Strength <vs cities> <when attacking>", 
+					"[+25]% Strength <vs [Construct] units> <when attacking>"]
+}
+]
