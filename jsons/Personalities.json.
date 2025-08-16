@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Neo-Queen Serenity",
+    "production": 5,
+    "food": 9,
+    "gold": 9,
+    "science": 10,
+    "culture": 10,
+    "happiness": 10,
+    "faith": 9,
+    "military": 2,
+    "aggressive": 1,
+    "declareWar": 2,
+    "commerce": 7,
+    "diplomacy": 9,
+    "loyal": 9,
+    "expansion": 5,
+    "priorities": {
+      "Tradition": 9,
+      "Liberty": 8,
+      "Honor": 5,
+      "Commerce": 8,
+      "Patronage": 9,
+      "Piety": 8,
+      "Rationalism": 9,
+      "Freedom": 8,
+      "Autocracy": 5,
+      "Order": 9
+    },
+    "civilopediaText": [
+      {
+        "text": "Neo-Queen Serenity, Queen of Silver Millenium, Eternal Sailor Moon, The bringer of Peace and Justice... Was going to set the stage for another Silver Millenium Golden Age, In prosperity, and Longevity with the power of The Legendary Silver Crystal."
+      }
+    ]
+    ]
