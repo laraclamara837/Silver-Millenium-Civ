@@ -5,6 +5,7 @@
 		"adjective": ["Earth and Moon Kingdom People"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "Neo-Queen Serenity",
 		
 		"startIntroPart1": "Neo-Queen Serenity would almost never leave the Crystal Palace but one day in a panic she left suddenly. Then a huge explosion occurred and everything was blown away in an instant except for the Crystal Palace, which was made from the Silver Crystal. Afterwards there was a grave silence at that very moment the Queens body was instantly engulfed in crystal as if she was being protected. However the four Senshi, Sailor Mars, Sailor Venus, Sailor Mercury and Sailor Jupiter along with King Endymion who were at her side, took a direct hit and fell. Chibiusa and Diana were the only ones who were spared.",
 		"startIntroPart2": "Oh, Neo-Queen Serenity... Take your scepter and show them the real power of the Legendary Silver Crystal... Or Will you stay frozen in a crystal and watch as your empire shattered like a broken glass... Will you stand the test of time.",
@@ -30,6 +31,7 @@
 		"outerColor": [175,179,238],
 		"innerColor": [251,250,255],
 		"uniqueName": "The Legendary Silver Crystal Power",
+		"favoredReligion": "Christianity",
 		"uniques": ["[+100]% Golden Age length", "[+100]% growth [in all cities]", "[+3 Happiness, +2 Culture] from every [Ice]", "[+50]% City Strength from defensive building <when at war>", "[+800]% [Happiness] [in all cities] <during a Golden Age>"],
 		"cities": ["Crystal Urania","Mare Serenitatis","Mare Tranquillitatis","Mare Cognitum","Mare Crisium","Mare Imbrium","Mare Ingenii","Mare Nubium","Mare Nectaris","Mare Orientale",
 			"Mare Spumans","Mare Undarum","Mare Vaporum","Oceanus Procellarum","Lacus Bonitatis","Lacus Excellentiae","Lacus Gaudii","Lacus Felicitatis","Lacus Lenitatis","Lacus Luxuriae",
