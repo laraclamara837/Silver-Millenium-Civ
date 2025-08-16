@@ -11,7 +11,7 @@
 		"uniques": ["Limited to [1] per Civilization"],
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
-		"upgradesTo": "Crystal Sailor Moon",
+		"upgradesTo": "Composite Bowman",
 		"attackSound": "Moon Tiara Boomerang!"
 	}
 ]
