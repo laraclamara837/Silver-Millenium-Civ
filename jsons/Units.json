@@ -28,5 +28,21 @@
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "Moon Tiara Boomerang!"
+	},
+	{
+		"name": "Sailor Mercury",
+		"unitType": "Sailor Guardian",
+		"uniqueTo": "Silver Millenium",
+		"replaces": "Archer",
+		"range": 1,
+		"movement": 3,
+		"strength": 8,
+		"rangedStrength": 9,
+		"cost": 90,
+		"uniques": ["Invisible to non-adjacent units", "[+50]% Strength ", "Eliminates combat penalty for attacking across a coast", "May travel on Water tiles without embarking", "Limited to [1] per Civilization", "Only available <in [Coastal] cities>"],
+		"requiredTech": "Sailing",
+		"obsoleteTech": "Compass",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "Moon Tiara Boomerang!"
 	}
 ]
