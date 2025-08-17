@@ -17,23 +17,18 @@
 		"name": "Sailor Moon",
 		"unitType": "Sailor Guardian",
 		"uniqueTo": "Silver Millenium",
-		"replaces": "Archer",
 		"range": 1,
 		"movement": 3,
 		"strength": 10,
 		"rangedStrength": 15,
 		"cost": 90,
 		"uniques": ["Limited to [1] per Civilization", "Only available <after adopting [Monarchy]>"],
-		"requiredTech": "Archery",
-		"obsoleteTech": "Construction",
-		"upgradesTo": "Composite Bowman",
 		"attackSound": "Moon Tiara Boomerang!"
 	},
 	{
 		"name": "Sailor Mercury",
 		"unitType": "Sailor Guardian",
 		"uniqueTo": "Silver Millenium",
-		"replaces": "Archer",
 		"range": 1,
 		"movement": 3,
 		"strength": 8,
@@ -41,8 +36,7 @@
 		"cost": 90,
 		"uniques": ["Invisible to non-adjacent units", "[+50]% Strength <vs [All] units> <when fighting in [Coastal] tiles>", "[+50]% Strength <vs [All] units> <when fighting in [River] tiles>", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May travel on Water tiles without embarking", "Limited to [1] per Civilization", "Only available <in [Coastal] cities>"],
 		"requiredTech": "Sailing",
-		"obsoleteTech": "Construction",
-		"upgradesTo": "Composite Bowman",
+		"obsoleteTech": "Compass",
 		"promotions": ["Quick Study", "Mercury Illusion"],
 		"attackSound": "Mercury Aqua Mist!"
 	}
