@@ -17,7 +17,7 @@
 		"name": "Sailor Moon",
 		"unitType": "Sailor Guardian",
 		"uniqueTo": "Silver Millenium",
-		"replaces": "",
+		"replaces": "Archer",
 		"range": 1,
 		"movement": 3,
 		"strength": 10,
@@ -41,7 +41,7 @@
 		"cost": 90,
 		"uniques": ["Invisible to non-adjacent units", "[+50]% Strength <vs [All] units> <when fighting in [Coastal] tiles>", "[+50]% Strength <vs [All] units> <when fighting in [River] tiles>", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May travel on Water tiles without embarking", "Limited to [1] per Civilization", "Only available <in [Coastal] cities>"],
 		"requiredTech": "Sailing",
-		"obsoleteTech": "Compass",
+		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"promotions": ["Quick Study", "Mercury Illusion"],
 		"attackSound": "Mercury Aqua Mist!"
