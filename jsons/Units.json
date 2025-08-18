@@ -34,7 +34,7 @@
 		"strength": 8,
 		"rangedStrength": 9,
 		"cost": 90,
-		"uniques": ["Can enter ice tiles", "[+10]% Strength <vs [Land] units> <when fighting in [Coastal] tiles>", "[+10]% Strength <vs [Land] units> <when fighting in [River] tiles>", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May travel on Water tiles without embarking", "Limited to [1] per Civilization", "Only available <in [Coastal] cities>"],
+		"uniques": ["Can enter ice tiles", "[+10]% Strength <vs [Land] units> <when fighting in [Coastal] tiles>", "[+10]% Strength <vs [Land] units> <when fighting in [River] tiles>",, "May travel on Water tiles without embarking", "Limited to [1] per Civilization", "Only available <in [Coastal] cities>"],
 		"requiredTech": "Sailing",
 		"obsoleteTech": "Compass",
 		"promotions": ["Quick Study", "Mercury Illusion"],
@@ -49,7 +49,7 @@
 		"strength": 9,
 		"rangedStrength": 16,
 		"cost": 90,
-		"uniques": ["Earn [3]% of killed [Wounded] unit's [Cost] as [Mana]"", "Limited to [1] per Civilization", "Only available <after adopting [Discipline]>"],
+		"uniques": ["Can see invisible [All] units", "No movement cost to pillage", "Earn [10]% of the damage done to [All] units as [Faith]", "[+35]% Strength <vs [Land] units> <for [10] turns> <upon entering a war with [Major] Civilizations>", "Limited to [1] per Civilization", "Only available <after adopting [Discipline]>"],
 		"attackSound": "Moon Tiara Boomerang!"
 	}
 ]
