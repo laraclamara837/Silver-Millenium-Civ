@@ -1,7 +1,7 @@
 [
 {
 		"name": "Mercury Power",
-		"uniques": [ "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "[-30]% Strength for enemy [Military] units in adjacent [All] tiles <with [50]% chance>"],
+		"uniques": ["Can enter ice tiles", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "[-30]% Strength for enemy [Military] units in adjacent [All] tiles <with [50]% chance>"],
 		"unitTypes": ["Sailor Guardian"],
     },
 ]
