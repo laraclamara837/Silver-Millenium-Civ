@@ -49,7 +49,7 @@
 		"strength": 9,
 		"rangedStrength": 16,
 		"cost": 90,
-		"uniques": ["Can see invisible [All] units", "No movement cost to pillage", "Earn [10]% of the damage done to [All] units as [Faith]", "[+35]% Strength <vs [Land] units> <for [10] turns> <upon entering a war with [Major] Civilizations>", "Limited to [1] per Civilization", "Only available <after adopting [Discipline]>"],
+		"uniques": ["Earn [10]% of the damage done to [All] units as [Faith]", "[+35]% Strength <vs [Land] units> <for [10] turns> <upon entering a war with [Major] Civilizations>", "Limited to [1] per Civilization", "Only available <after adopting [Discipline]>"],
 		"attackSound": "Moon Tiara Boomerang!"
 	}
 ]
