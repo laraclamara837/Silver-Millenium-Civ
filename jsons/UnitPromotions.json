@@ -1,7 +1,8 @@
 [
 {
 		"name": "Mercury Power",
-		"uniques": ["Can enter ice tiles", "May travel on Water tiles without embarking", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast"],
+		"uniques": ["Can enter ice tiles", "May travel on Water tiles without embarking", "Eliminates combat penalty for attacking over a river", 
+			"Eliminates combat penalty for attacking across a coast", "Cannot enter ocean tiles"],
 		"unitTypes": ["Sailor Guardian"],
     },
 	{
