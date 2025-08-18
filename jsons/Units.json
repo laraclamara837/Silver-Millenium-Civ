@@ -34,7 +34,7 @@
 		"strength": 8,
 		"rangedStrength": 9,
 		"cost": 90,
-		"uniques": ["[+10]% Strength <vs [Land] units> <when fighting in [Coastal] tiles>", "[+10]% Strength <vs [Land] units> <when fighting in [River] tiles>",, "May travel on Water tiles without embarking", "Limited to [1] per Civilization", "Only available <in [Coastal] cities>"],
+		"uniques": ["[+10]% Strength <vs [Land] units> <when fighting in [Coastal] tiles>", "[+10]% Strength <vs [Land] units> <when fighting in [River] tiles>", "Limited to [1] per Civilization", "Only available <in [Coastal] cities>"],
 		"requiredTech": "Sailing",
 		"obsoleteTech": "Compass",
 		"promotions": ["Quick Study", "Mercury Illusion"],
