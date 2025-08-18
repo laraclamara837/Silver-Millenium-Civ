@@ -34,10 +34,22 @@
 		"strength": 8,
 		"rangedStrength": 9,
 		"cost": 90,
-		"uniques": ["Invisible to non-adjacent units", "[+50]% Strength <vs [All] units> <when fighting in [Coastal] tiles>", "[+50]% Strength <vs [All] units> <when fighting in [River] tiles>", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May travel on Water tiles without embarking", "Limited to [1] per Civilization", "Only available <in [Coastal] cities>"],
+		"uniques": ["Can enter ice tiles", "[+10]% Strength <vs [Land] units> <when fighting in [Coastal] tiles>", "[+10]% Strength <vs [Land] units> <when fighting in [River] tiles>", "Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast", "May travel on Water tiles without embarking", "Limited to [1] per Civilization", "Only available <in [Coastal] cities>"],
 		"requiredTech": "Sailing",
 		"obsoleteTech": "Compass",
 		"promotions": ["Quick Study", "Mercury Illusion"],
 		"attackSound": "Mercury Aqua Mist!"
+	},
+	{
+		"name": "Sailor Mars",
+		"unitType": "Sailor Guardian",
+		"uniqueTo": "Silver Millenium",
+		"range": 1,
+		"movement": 3,
+		"strength": 9,
+		"rangedStrength": 16,
+		"cost": 90,
+		"uniques": ["Earn [3]% of killed [Wounded] unit's [Cost] as [Mana]"", "Limited to [1] per Civilization", "Only available <after adopting [Discipline]>"],
+		"attackSound": "Moon Tiara Boomerang!"
 	}
 ]
