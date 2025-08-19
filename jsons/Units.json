@@ -46,6 +46,18 @@
 		"movement": 3,
 		"strength": 9,
 		"rangedStrength": 16,
+		"promotions": ["Mars Power"],
+		"uniques": ["Earn [10]% of the damage done to [All] units as [Faith]", "[+35]% Strength bonus for [Sailor Guardian] units within [2] tiles <when at war>", "[+35]% Strength <vs [Land] units> <for [10] turns> <upon entering a war with [Major] Civilizations>", "Limited to [1] per Civilization", "Only available <after adopting [Discipline]>"],
+		"attackSound": "Moon Tiara Boomerang!"
+	},
+	{
+		"name": "Sailor Jupiter",
+		"unitType": "Sailor Guardian",
+		"uniqueTo": "Silver Millenium",
+		"range": 1,
+		"movement": 3,
+		"strength": 9,
+		"rangedStrength": 16,
 		"uniques": ["Earn [10]% of the damage done to [All] units as [Faith]", "[+35]% Strength <vs [Land] units> <for [10] turns> <upon entering a war with [Major] Civilizations>", "Limited to [1] per Civilization", "Only available <after adopting [Discipline]>"],
 		"attackSound": "Moon Tiara Boomerang!"
 	}
