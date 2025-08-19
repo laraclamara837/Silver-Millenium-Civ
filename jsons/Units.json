@@ -30,8 +30,8 @@
 		"uniqueTo": "Silver Millenium",
 		"range": 1,
 		"movement": 3,
-		"strength": 8,
-		"rangedStrength": 9,
+		"strength": 5,
+		"rangedStrength": 7,
 		"uniques": ["[+10]% Strength <vs [Land] units> <when fighting in [Coastal] tiles>", "[+10]% Strength <vs [Land] units> <when fighting in [River] tiles>", "[-25]% Strength for enemy [Military] units in adjacent [All] tiles <with [50]% chance>", "Limited to [1] per Civilization", "Only available <in [Coastal] cities>"],
 		"requiredTech": "Sailing",
 		"obsoleteTech": "Compass",
@@ -58,7 +58,7 @@
 		"movement": 3,
 		"strength": 9,
 		"rangedStrength": 16,
-		"uniques": ["Earn [10]% of the damage done to [All] units as [Faith]", "[+35]% Strength <vs [Land] units> <for [10] turns> <upon entering a war with [Major] Civilizations>", "Limited to [1] per Civilization", "Only available <after adopting [Discipline]>"],
+		"uniques": [""],
 		"attackSound": "Moon Tiara Boomerang!"
 	}
 ]
