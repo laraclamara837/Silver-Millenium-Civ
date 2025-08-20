@@ -7,7 +7,7 @@
     },
 	{
 		"name": "Mars Power",
-		"uniques": ["Can see invisible [All] units", "No movement cost to pillage", "Ranged attacks may be performed over obstacles", "",
+		"uniques": ["Can see invisible [All] units", "No movement cost to pillage", "Ranged attacks may be performed over obstacles", "[+100]% Strength <vs [Land] units> <in tiles adjacent to [Grand Mesa] tiles>",
 			"Only available <for [Sailor Mars] units>"],
 		"unitTypes": ["Sailor Guardian"],
     }
