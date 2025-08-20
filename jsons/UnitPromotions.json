@@ -7,7 +7,7 @@
     },
 	{
 		"name": "Mars Power",
-		"uniques": ["Can see invisible [All] units", "No movement cost to pillage", "Ranged attacks may be performed over obstacles", 
+		"uniques": ["Can see invisible [All] units", "No movement cost to pillage", "Ranged attacks may be performed over obstacles", "",
 			"Only available <for [Sailor Mars] units>"],
 		"unitTypes": ["Sailor Guardian"],
     }
