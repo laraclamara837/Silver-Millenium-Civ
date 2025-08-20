@@ -42,7 +42,7 @@
 		"name": "Sailor Mars",
 		"unitType": "Sailor Guardian",
 		"uniqueTo": "Silver Millenium",
-		"range": 1,
+		"range": 2,
 		"movement": 3,
 		"strength": 9,
 		"rangedStrength": 16,
@@ -56,8 +56,8 @@
 		"uniqueTo": "Silver Millenium",
 		"range": 1,
 		"movement": 3,
-		"strength": 9,
-		"rangedStrength": 16,
+		"strength": 15,
+		"rangedStrength": 11,
 		"uniques": [""],
 		"attackSound": "Moon Tiara Boomerang!"
 	}
